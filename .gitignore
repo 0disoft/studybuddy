@@ -1,6 +1,9 @@
 test-results
 node_modules
 
+# Inlang cache files
+project.inlang/cache
+
 # Output
 .output
 .vercel
