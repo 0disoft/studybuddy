@@ -1,0 +1,1 @@
+:sparkles: feat: Initial SvelteKit project setup
